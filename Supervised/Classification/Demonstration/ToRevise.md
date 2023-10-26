@@ -1,0 +1,2 @@
+-   Write down comment for some code let more understand what is the purpose of the code how it work.
+-   Each class should show one sample with its label.
