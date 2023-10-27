@@ -1,0 +1,6 @@
+-   In my opinion, the whole knowledge (content of this coure) is too large for only one coures.
+    -   I think it may be too much for most student can follow the whole content in one coure.
+    -   Many school separate this into three courses:
+        -   Introduction to AI (Traditional method (Search,...), Python, Pandas,...)
+        -   Machine Learning (Supervised, Unsupervised), Preprocessing data, Solve by probability, KNN, SVM, Decesion Tree,...
+        -   Deep Learning (Perceptron Network, Neural Network, Convolution Neural Network)

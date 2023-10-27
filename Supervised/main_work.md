@@ -4,7 +4,7 @@
 -   How to use the library to run model (Write visualization code)
 ## Homework
 -   Find the problem and data
--   Giving the structture of code of homework
+-   Giving the structure of code of homework
 # Fintek data
 ## Understand Previous Projects 
 -   Take a look at the previous projects in NAS (AtrusteK)
