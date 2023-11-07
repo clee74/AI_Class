@@ -7,3 +7,4 @@ Divide point into similar clusters base on similarities.
 -   Hierachical
 -   K-means
 -   DBSCAN
+-   Meanshift: <https://analyticsindiamag.com/hands-on-tutorial-on-mean-shift-clustering-algorithm/>(Mean shift)
