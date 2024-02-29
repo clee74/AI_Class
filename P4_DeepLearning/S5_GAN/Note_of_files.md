@@ -1,0 +1,2 @@
+-   The Demo_GAN.ipynb is constructed with small input size of image (32 x 32) for the reason of computing power.
+-   The demo-gan-a-side-dvc81_kaggle.html is the file code of GAN model with larger input size of image (320 x 320) which is run on Kaggle platform
